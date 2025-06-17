@@ -1,11 +1,11 @@
-# ShopNex - An Ecommerce App 🛍️ #
+# Shopers Choice - An Ecommerce App 🛍️ #
 
 ## Live Link : ##
 [shopnex.vercel.app](https://shopnex.vercel.app/)
 
 ## About The Project ##
 
-Shopnex is your one-stop destination for fashionable clothing for the entire family. Discover a wide selection of men's, women's, and kids' apparel, ensuring that everyone can find the perfect style and fit. Shop with confidence and convenience at Shopnex for all your clothing needs.
+Shopers Choice is your one-stop destination for fashionable clothing for the entire family. Discover a wide selection of men's, women's, and kids' apparel, ensuring that everyone can find the perfect style and fit. Shop with confidence and convenience at Shopnex for all your clothing needs.
 
 ## Features - ##
 
@@ -29,7 +29,4 @@ $ npm start
 ```
 
 
-## Contributing Guidelines :octocat: ##
-
-[https://github.com/JiyaGupta-cs/mytwit/blob/master/contributing.md](https://github.com/JiyaGupta-cs/shopnex/blob/master/contributing.md)
 
